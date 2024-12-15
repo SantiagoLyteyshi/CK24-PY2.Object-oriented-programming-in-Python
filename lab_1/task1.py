@@ -158,7 +158,7 @@ class Shcola:
             """
         return self.nachalo_yrokov - self.vremya_bydilnika <= 0
 
-# if __name__ == "__main__":
-#     # TODO работоспособность экземпляров класса проверить с помощью doctest
-#     doctest.testmod()  # тестирование примеров, которые находятся в документаци
-#     pass
+if __name__ == "__main__":
+    # TODO работоспособность экземпляров класса проверить с помощью doctest
+    doctest.testmod()  # тестирование примеров, которые находятся в документаци
+    pass
